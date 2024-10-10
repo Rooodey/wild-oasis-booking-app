@@ -1,8 +1,14 @@
-# React + Vite
+# The Wild Oasis
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**The Wild Oasis** is a modern Single Page Application (SPA) built with React, where you can manage and book cabins. This application was developed as part of a Udemy course by Jonas Schmedtmann.
 
-Currently, two official plugins are available:
+### Key Technologies and Concepts:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React Router**: For seamless navigation within the app.
+- **Redux** and **Context API**: For global state management.
+- **React Query**: For efficient data fetching and caching.
+
+### Live Demo:
+
+Explore the app and its features:  
+[The Wild Oasis Booking App](https://wild-oasis-booking-app.vercel.app/cabins)
