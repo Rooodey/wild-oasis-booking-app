@@ -11,4 +11,4 @@
 ### Live Demo:
 
 Explore the app and its features:  
-[The Wild Oasis Booking App](https://wild-oasis-booking-app.vercel.app/cabins)
+[The Wild Oasis Booking App](https://wild-oasis-booking-app.vercel.app/)
