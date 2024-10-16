@@ -68,7 +68,9 @@ const Guest = styled.div`
   }
 `;
 
-const Price = styled.div`
+const Price = styled.div.attrs((props) => ({
+  // Keine isPaid Prop im DOM
+}))`
   display: flex;
   align-items: center;
   justify-content: space-between;
